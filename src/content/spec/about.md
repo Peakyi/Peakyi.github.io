@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+## $\text{Welcome to my blog!}$
 
-::github{repo="saicaca/fuwari"}
+### About Me
+Here's **Anby**.  
+::github{repo="Peakyi"} 
+Grade 8 now,graduated from Yaohua Experimental School for junior high.  
+**Active OIer**,Retired MO participant, retired PhO participant.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+- **Luogu** account: [Anby_](https://www.luogu.com.cn/user/728401)
+- **Bilibili** account: [Anby_](https://space.bilibili.com/2004653059)
+- **NECM** account: [autumnrains](https://music.163.com/#/user/home?id=33667727)
+
+### Some Mathematical Formula Here
+**DHL integral**
+$$
+\int_0^\infty\sin x^n\,dx=\frac1n\Gamma\left(\frac1n\right)\sin\left(\frac{\pi}{2n}\right)
+$$
