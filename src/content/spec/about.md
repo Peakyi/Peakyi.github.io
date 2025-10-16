@@ -1,8 +1,7 @@
 ## $\text{Welcome to my blog!}$
 
 ### About Me
-Here's **Anby**.  
-::github{repo="Peakyi/Peakyi.github.io"}   
+Here's **Anby**.[![](https://atrating.baoshuo.dev/rating?username=yh2023lishiye)](https://atcoder.jp/users/yh2023lishiye)  
 Grade 8 now,graduated from Yaohua Experimental School for junior high.  
 **Active OIer**,Retired MO participant, retired PhO participant.
 
