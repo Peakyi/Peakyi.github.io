@@ -2,7 +2,7 @@
 
 ### About Me
 Here's **Anby**.  
-::github{repo="Peakyi"}   
+::github{repo="Peakyi/Peakyi.github.io"}   
 Grade 8 now,graduated from Yaohua Experimental School for junior high.  
 **Active OIer**,Retired MO participant, retired PhO participant.
 
