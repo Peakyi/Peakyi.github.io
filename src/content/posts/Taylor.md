@@ -58,11 +58,17 @@ $$
 r_n(x_0)=r_n'(x_0)=0
 $$
 Assume it holds for $1\le m=k$. To prove it also holds for $m=k+1$, i.e.,
-$$r_n(x_0)=r_n'(x_0)=\dots=r_n^{(k+1)}(x_0)=0$$
+$$
+r_n(x_0)=r_n'(x_0)=\dots=r_n^{(k+1)}(x_0)=0
+$$
 then 
-$$r_n(x)=o((x-x_0)^{k+1})$$
+$$
+r_n(x)=o((x-x_0)^{k+1})
+$$
 Thus,
-$$r_n'(x)=o((x-x_0)^k)$$
+$$
+r_n'(x)=o((x-x_0)^k)
+$$
 [But](https://baike.baidu.com/item/%E4%BD%86/62894180) (A chinese theme) by Lagrange's Mean Value Theorem, there must exist $\exists x_t\in[x,x_0]$ such that
 $$
 r_n'(x_t)(x-x_0)=r_n(x)-r_n(x_0)\\
