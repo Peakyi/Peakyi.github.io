@@ -1,10 +1,10 @@
 ---
 title: Note on Complex Analysis
-published: 2025-8-2
+published: 2025-10-16
 description: 'Very good notes on introductory complex analysis.'
 image: ''
 tags: [Mathematic,Complex]
-category: ''
+category: 'Mathematic'
 draft: false 
 lang: ''
 ---
