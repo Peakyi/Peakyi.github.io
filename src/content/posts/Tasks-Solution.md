@@ -186,7 +186,13 @@ $$
 $$
 Differentiating $n$ times:
 
-![](./images/text.png)
+$$
+\psi^{(n)}(1)=
+\begin{cases}
+ -\gamma & \text{ if } n=0. \\
+ n!(-1)^{n+1}\zeta(n+1) & \text{Otherwise.}
+\end{cases}
+$$
 
 Good $\LaTeX$ skills will take you far.
 
