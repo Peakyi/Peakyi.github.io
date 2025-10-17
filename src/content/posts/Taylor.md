@@ -69,7 +69,7 @@ Thus,
 $$
 r_n'(x)=o((x-x_0)^k)
 $$
-[But](https://baike.baidu.com/item/%E4%BD%86/62894180) (A chinese theme) by Lagrange's Mean Value Theorem, there must exist $\exists x_t\in[x,x_0]$ such that
+[But](https://baike.baidu.com/item/%E4%BD%86/62894180) (A chinese meme) by Lagrange's Mean Value Theorem, there must exist $\exists x_t\in[x,x_0]$ such that
 $$
 r_n'(x_t)(x-x_0)=r_n(x)-r_n(x_0)\\
 \Rightarrow r_n'(x_t)=o((x-x_0)^k)\\
