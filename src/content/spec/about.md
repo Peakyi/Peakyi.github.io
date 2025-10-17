@@ -3,8 +3,8 @@
 ### About Me
 Here's **Anby**.  
 ::github{repo="Peakyi/Peakyi.github.io"}   
-Grade 8 now,graduated from Yaohua Experimental School for junior high.  
-**Active OIer**,Retired MO participant, retired PhO participant.
+Grade 8 now, graduated from Yaohua Experimental School for junior high.  
+**Active OIer**, retired MO participant, retired PhO participant.
 
 - **Luogu** account: [Anby_](https://www.luogu.com.cn/user/728401)
 - **Bilibili** account: [Anby_](https://space.bilibili.com/2004653059)
