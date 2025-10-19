@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-		  src: 'favicon/icon2.jpg',    // Path of the favicon, relative to the /public directory
+		  src: '/favicon/icon2.jpg',    // Path of the favicon, relative to the /public directory
 		//  theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 		//  sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		}
@@ -54,7 +54,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Anby_",
+	name: "Hiiragi Kagami",
 	bio: "A calm classroom cannot nurture outstanding OIers",
 	links: [
 		{
