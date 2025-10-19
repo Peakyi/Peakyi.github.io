@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: true, // Display the credit text of the banner image
 			text: "柊 かがみ,YES!!!!", // Credit text to be displayed
-			url: "", // (Optional) URL link to the original artwork or artist's page
+			url: "https://mzh.moegirl.org.cn/%E6%9F%8A%E9%95%9C", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
