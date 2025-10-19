@@ -10,6 +10,18 @@ lang: ''
 ---
 ## Casual Remarks (Chinese)
 河溢危，禾已萎，鹤依偎。禾异味，鹤已畏，合一，谓何？"异味？"何矣，味何？以萎。何异胃颌已危，何医为？河易为河医。为何？医喂荷以维何一胃。何已维。"颌医未。"何矣，胃颌易维，合一位，荷医为颌，医危颌，"已伟！"何意为贺医位。（好文当赏！）    
+
+The sentences here are all composed of the English translation of '何意味'.  
+A Japanese phrase "何意味？" (nani imi?) meaning **"What meaning?"** or "What does it mean?"
+
+**How it's used online:**
+It's an ironic or sarcastic way to react to something that is:
+*   Very confusing or absurd.
+*   So weird that you question its meaning or purpose.
+*   Cringey or "deep" in a funny way.
+
+**Basically:** It's the internet's way of saying **"WTF am I looking at?"** or **"What's the point of this?"** with a specific, mock-serious Japanese flair.
+
 ## Some Definitions
 We define the following two functions:
 $$
@@ -121,7 +133,7 @@ $$
 $$
 Let $z=\frac pq,(0<p<q,p,q\in\mathbb{N})$, using Abel's limit theorem, then:
 $$
-\psi\left(\frac pq\right)+\gamma=\lim_{t\to1^-}\sum_{n=0}^\infty\left(\frac1{n+1}-\frac{q}{p+nq}\right)t^{p+nq}
+\psi\left(\frac pq\right)+\gamma=\lim_{t\to1-0}\sum_{n=0}^\infty\left(\frac1{n+1}-\frac{q}{p+nq}\right)t^{p+nq}
 $$
 Further,
 $$
@@ -135,7 +147,7 @@ $$
 &= -t^{p-q} \ln \frac{1-t^q}{1-t} - (t^{p-q}-1) \ln (1-t) + \sum_{n=1}^{q-1} \omega^{-np} \ln (1-\omega^n t)\\
 \end{aligned}
 $$
-where $\omega = e^{\frac{2\pi i}{q}}$. Letting $t \to 1^-$ yields:
+where $\omega = e^{\frac{2\pi i}{q}}$. Letting $t \to 1-0$ yields:
 $$
 \psi \left( \frac{p}{q} \right) = -\gamma - \ln q + \sum_{n=1}^{q-1} \omega^{-np} \ln (1-\omega^n)
 $$
@@ -170,13 +182,38 @@ $$
 $$
 This is absolutely the messiest $\KaTeX$ typesetting I have ever written. It can't be helped; the $\KaTeX$ version supported by markdown is ridiculously low.
 ## Some Conclusions
+**Theorem 3**
 $$
 \gamma=\int_0^\infty e^{-t}\left(\frac1{1-e^{-t}}-\frac1t\right)\,\mathrm{d}t
 $$
-Proof:
+**Proof:**  
+This is not the true form of this theorem. I just think $\gamma$ is the most beautiful constant in this world, so I changed it to look like this. The original proposition was to prove:
 $$
-\text{To be continued.}
+\psi(z)=\int_0^\infty\left(\frac{e^{-t}}t-\frac{e^{-zt}}{1-e^{-t}}\right)\,\mathrm{d}t
 $$
+So let's prove this instead.  
+First, let's transform the $\psi$ function a bit. Specifically, by substituting the definition of $\gamma$ into **Theorem 1**, we can obtain:
+$$
+\psi(z)=-\frac1z+\lim_{n\to\infty}\left(\ln n-\sum_{i=1}^n\frac1{z+i}\right)
+$$
+Then, we have:
+$$
+\frac1n=\int_0^\infty e^{-nt}\,\mathrm{d}t\\
+\ln n=\int_1^n\mathrm{d}u\int_0^\infty e^{-ut}\,\mathrm{d}t
+$$
+Then combine them all together superbly, and we get:
+$$
+\psi(z)=-\frac1z+\lim_{n\to\infty}\left(\ln n-\sum_{i=1}^n\frac1{z+i}\right)
+$$
+Then substitute $z=1$, and thus the proposition is proven.
 
+**Theorem 4**  
+$$
+\sum_{n=1}^\infty\frac{\zeta(n+1)}{2^n}=2\ln 2
+$$
+This uses the Taylor expansion of $\psi$, and is left as an exercise for the reader to prove (it's not difficult).  
+Also, here are a series of related series:
+- $\displaystyle\sum_{n=1}^\infty\frac{(-1)^n\zeta(n+1)}{2^n}=2\ln2-2$
+- $\displaystyle\sum_{n=1}^\infty\frac{4^{-n-1}\zeta(n+1)}{n+1}=-\frac\gamma4-\ln\Gamma\left(\frac14\right)$
 ## References
 - [Proof of Gauss's Digamma Theorem](https://www.cnblogs.com/pengdaoyi/p/7262478.html)
