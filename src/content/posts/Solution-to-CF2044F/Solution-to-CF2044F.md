@@ -1,9 +1,9 @@
 ---
-title: Solution to CF2044F Easy Demon Problem
+title: Solution to CF2044F
 published: 2025-10-20
-description: 'A solution to CF2044F'
+description: 'A solution to CF2044F Easy Demon Problem'
 image: './bg.jpg'
-tags: [Informatics, Mathematic]
+tags: [Informatics, Mathematic,Solutions]
 category: 'Informatics'
 draft: false 
 lang: ''
