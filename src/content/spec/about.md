@@ -1,6 +1,5 @@
-![](./bg.jpg)  
 ## $\text{Welcome to my blog!}$
-
+![](./bg.jpg)  
 ### About Me
 Here's **Anby**, fans of [Hiiragi Kagami](https://mzh.moegirl.org.cn/%E6%9F%8A%E9%95%9C).  
 ::github{repo="Peakyi/Peakyi.github.io"}   
