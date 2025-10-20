@@ -1,8 +1,8 @@
+![](./bg.jpg)  
 ## $\text{Welcome to my blog!}$
 
 ### About Me
 Here's **Anby**, fans of [Hiiragi Kagami](https://mzh.moegirl.org.cn/%E6%9F%8A%E9%95%9C).  
-![](./bg.jpg)  
 ::github{repo="Peakyi/Peakyi.github.io"}   
 Grade 8 now, graduated from [Yaohua Experimental School](https://www.szyh.org/) for junior high in 2025.  
 **Active OIer**, retired MO participant, retired PhO participant.
