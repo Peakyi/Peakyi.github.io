@@ -1,6 +1,6 @@
-## $\text{Welcome to my blog!}$
+# $\text{Welcome to my blog!}$
 ![](./bg.jpg)  
-### About Me
+## About Me
 Here's **Anby**, fans of [Hiiragi Kagami](https://mzh.moegirl.org.cn/%E6%9F%8A%E9%95%9C).  
 ::github{repo="Peakyi/Peakyi.github.io"}   
 Grade 8 now, graduated from [Yaohua Experimental School](https://www.szyh.org/) for junior high in 2025.  
@@ -16,10 +16,10 @@ $$
 $$
 This integral was be found by DHL in a exam.
 
-### Achieve
+## Achieve
 2024 CSP-Senior Second Prize  
 
-### My friends
+## My friends
 - **Liuhy:** THE MOST GENIUS OIER IN THE WORLD!!! \bx\bx
 - **DHL:** An active PhO participant, fill with planty of great idea.
 - **Andy:** Really good man, the leader of [Andy AK ICPC](https://codeforces.com/group/a5HIB7RZpx/blog).
