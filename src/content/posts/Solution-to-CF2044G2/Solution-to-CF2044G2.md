@@ -1,7 +1,7 @@
 ---
-title: Solution to CF2044G Medium Demon Problem
+title: Solution to CF2044G
 published: 2025-10-20
-description: 'a solution to CF2044G'
+description: 'a solution to CF2044G Medium Demon Problem'
 image: './bg.jpg'
 tags: [Informatics,Solutions,Topology,Graph theory]
 category: 'Informatics'
