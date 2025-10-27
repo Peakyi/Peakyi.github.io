@@ -18,6 +18,7 @@ This integral was be found by DHL in a exam.
 
 ## Achieve
 2024 CSP-Senior Second Prize  
+2025 Chinese High School Mathematics League Third Prize
 
 ## My friends
 - **Liuhy:** THE MOST GENIUS OIER IN THE WORLD!!! \bx\bx
