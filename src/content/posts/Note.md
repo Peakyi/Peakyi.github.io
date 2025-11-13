@@ -7,6 +7,7 @@ tags: [Mathematic,Complex]
 category: 'Mathematic'
 draft: false 
 lang: ''
+pinned: true
 ---
 
 ## Preface
