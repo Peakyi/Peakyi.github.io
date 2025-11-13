@@ -1,0 +1,29 @@
+---
+import LocalPlayer from './LocalPlayer.svelte';
+
+// Assume public/music/ contains:
+// track1.mp3, track2.mp3, track3.mp3, and corresponding cover.jpg
+const audioList = [
+  {
+    name: 'Beautiful World - 宇多田ヒカル',
+    src: '/music/Beautiful World.mp3',
+    cover: '/music/cover.jpg'
+  },
+  {
+    name: 'One Last Kiss - 宇多田ヒカル',
+    src: '/music/One Last Kiss.flac',
+    cover: '/music/cover.jpg'
+  },
+  {
+    name: '夜に駆ける - YOASOBI',
+    src: '/music/Yoru ni Kakeru.mp3',
+    cover: '/music/cover.jpg'
+  }
+
+  //夜に駆ける
+  // add more tracks as needed
+];
+---
+
+<LocalPlayer client:load {audioList} />
+
