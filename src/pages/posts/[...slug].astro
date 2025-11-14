@@ -106,9 +106,7 @@ const jsonLd = {
             <Markdown class="mb-6 markdown-content onload-animation">
                 <Content />
             </Markdown>
-
             {licenseConfig.enable && <License title={entry.data.title} slug={entry.slug} pubDate={entry.data.published} class="mb-6 rounded-xl license-container onload-animation"></License>}
-            <CommentSection />
         </div>
     </div>
 
@@ -133,5 +131,6 @@ const jsonLd = {
             </div>}
         </a>
     </div>
-
+    
+    <CommentSection />
 </MainGridLayout>
