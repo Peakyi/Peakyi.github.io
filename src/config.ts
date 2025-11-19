@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: true, // Display the credit text of the banner image
 			text: "柊 かがみ,YES!!!!", // Credit text to be displayed
-			url: "", // (Optional) URL link to the original artwork or artist's page
+			url: "https://mzh.moegirl.org.cn/%E6%9F%8A%E9%95%9C", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
@@ -44,6 +44,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
+		LinkPreset.Friends,
 		{
 			name: "Luogu",
 			url: "https://www.luogu.com.cn/user/728401", // Internal links should not include the base path, as it is automatically added
