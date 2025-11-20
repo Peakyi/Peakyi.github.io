@@ -35,7 +35,7 @@ Thus, the problem reduces to finding factors of $x$.
 
 ### Implementation
 Store all values of $suma - A_i$ and $sumb - B_j$ in two sets. For each query $x$, check if there exists a factor $p$ of $x$ in one set such that $\frac{x}{p}$ exists in the other set.  
-Time complexity: $O(n + m + \sqrt{x})$.
+Time complexity: $O(n + m + q\sqrt{x})$.
 
 ### AC Code
 ```cpp title="CF2044F.cpp"
