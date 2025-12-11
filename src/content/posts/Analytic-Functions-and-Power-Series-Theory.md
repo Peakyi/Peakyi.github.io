@@ -5,7 +5,7 @@ description: 'Found that someone has already written about this, so no further o
 image: ''
 tags: [Mathematic]
 category: 'Mathematic'
-draft: true 
+draft: false 
 lang: ''
 ---
 
