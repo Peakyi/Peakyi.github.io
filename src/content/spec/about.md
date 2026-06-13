@@ -18,8 +18,8 @@ This integral was be found by DHL in a exam.
 
 ## Achieve
 2024 CSP-Senior Second Prize  
-2025 Chinese High School Mathematics League Third Prize
-2025 National Olympics in Informatics Province (China) Second Prize
+2025 Chinese High School Mathematics League Third Prize  
+2025 National Olympics in Informatics Province (China) Second Prize  
 2026 XCPC ShenZhen Invitational Golden Prize, Rank 42
 
 ## My friends
@@ -33,5 +33,5 @@ Learning in Tung Wah Junior High for grade 8.
 Team member of [Andy AK ICPC](https://codeforces.com/group/a5HIB7RZpx/blog), ~~Andy's sweetheart~~.
 
 ## Match history
-**2026 XCPC ShenZhen Invitational, Golden Prize**
+**2026 XCPC ShenZhen Invitational, Golden Prize**  
 ![2026 XCPC ShenZhen Invitational, Golden Prize](./XCPCshenzhen.jpg)
