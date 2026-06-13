@@ -19,6 +19,8 @@ This integral was be found by DHL in a exam.
 ## Achieve
 2024 CSP-Senior Second Prize  
 2025 Chinese High School Mathematics League Third Prize
+2025 National Olympics in Informatics Province (China) Second Prize
+2026 XCPC ShenZhen Invitational Golden Prize, Rank 42
 
 ## My friends
 - **Liuhy:** THE MOST GENIUS OIER IN THE WORLD!!! \bx\bx
@@ -27,23 +29,9 @@ This integral was be found by DHL in a exam.
 - **Danny:** Mathematics lover, my best friend in junior high.
 - **Yao Ming:** Video editing enthusiast, I like his video in bilibili.
 ## More detail
-Learning in [Jiasheng Experimental School](https://baike.baidu.com/item/%E4%B8%9C%E8%8E%9E%E5%B8%82%E5%B8%B8%E5%B9%B3%E5%98%89%E7%9B%9B%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1/51007795) for grade 8.  
+Learning in Tung Wah Junior High for grade 8.  
 Team member of [Andy AK ICPC](https://codeforces.com/group/a5HIB7RZpx/blog), ~~Andy's sweetheart~~.
 
 ## Match history
-**2024 China Collegiate Programming Contest (CCPC) Chongqing Onsite** VP rk221
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/xg6fjnh1.png)
-
-
-**2019 ICPC China Shaanxi Provincial Programming Contest** VP rk29
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/ei1hrmw6.png)
-
-##  Super ultra great delicious wonderful video
-
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1bV411B7uK&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-### Kaibutsu - Animenzzz
-
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1iU4y1c7XC&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+**2026 XCPC ShenZhen Invitational, Golden Prize**
+![2026 XCPC ShenZhen Invitational, Golden Prize](./XCPCshenzhen.jpg)
